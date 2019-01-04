@@ -1,0 +1,1683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3d5265a5-aa18-4f64-80f7-d55f825781ad" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="tronbox.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tronbox.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="26" column="35" lean-forward="true" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EpicPackOri.sol" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contracts/EpicPackOri.sol">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OriRarePack.sol" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contracts/OriRarePack.sol">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+              <folding>
+                <element signature="n#!!block;n#getCardDetails#0;n#RarePack#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Common.sol" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contracts/Common.sol">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1346">
+              <caret line="1131" column="24" lean-forward="true" selection-start-line="1131" selection-start-column="24" selection-end-line="1131" selection-end-column="24" />
+              <folding>
+                <element signature="n#Ownable#0" />
+                <element signature="n#!!block;n#setOwner#0;n#Ownable#0" />
+                <element signature="n#!!block;n#onlyOwner#0;n#Ownable#0" />
+                <element signature="n#!!block;n#withdraw#0;n#CappedVault#0" />
+                <element signature="n#Governable#0" />
+                <element signature="e#1372#1410#0" />
+                <element signature="n#!!block;n#setGovernor#0;n#Governable#0" />
+                <element signature="n#!!block;n#onlyGovernor#0;n#Governable#0" />
+                <element signature="e#1596#1692#0" />
+                <element signature="n#!!block;n#whenNotPaused#0;n#Governable#0" />
+                <element signature="e#1772#1864#0" />
+                <element signature="n#!!block;n#whenPaused#0;n#Governable#0" />
+                <element signature="e#1940#2014#0" />
+                <element signature="n#!!block;n#pause#0;n#Governable#0" />
+                <element signature="e#2128#2205#0" />
+                <element signature="n#!!block;n#unpause#0;n#Governable#0" />
+                <element signature="n#Pausable#0" />
+                <element signature="n#!!block;n#whenNotPaused#0;n#Pausable#0" />
+                <element signature="n#!!block;n#whenPaused#0;n#Pausable#0" />
+                <element signature="n#!!block;n#pause#0;n#Pausable#0" />
+                <element signature="n#!!block;n#unpause#0;n#Pausable#0" />
+                <element signature="n#!!block;n#getLimit#0;n#CardProto#0" />
+                <element signature="n#!!block;n#makePermanantlyTradable#0;n#CardProto#0" />
+                <element signature="n#!!block;n#isTradable#0;n#CardProto#0" />
+                <element signature="n#!!block;n#nextSeason#0;n#CardProto#0" />
+                <element signature="e#5241#5356#0" />
+                <element signature="n#!!block;n#addProtos#0;n#CardProto#0" />
+                <element signature="e#6796#7248#1" />
+                <element signature="n#!!block;n#addProto#0;n#CardProto#0" />
+                <element signature="n#!!block;n#addWeapon#0;n#CardProto#0" />
+                <element signature="n#!!block;n#addSpell#0;n#CardProto#0" />
+                <element signature="n#!!block;n#_addProto#0;n#CardProto#0" />
+                <element signature="e#9839#10404#1" />
+                <element signature="e#9923#9979#1" />
+                <element signature="e#10012#10066#1" />
+                <element signature="e#10099#10153#1" />
+                <element signature="e#10191#10250#1" />
+                <element signature="e#10285#10341#1" />
+                <element signature="e#10347#10394#1" />
+                <element signature="n#!!block;n#getRandomCard#0;n#CardProto#0" />
+                <element signature="e#10972#11021#0" />
+                <element signature="e#11030#11129#0" />
+                <element signature="e#11167#11229#1" />
+                <element signature="e#11262#11320#1" />
+                <element signature="e#11353#11411#1" />
+                <element signature="e#11449#11517#1" />
+                <element signature="e#11552#12046#1" />
+                <element signature="e#11566#11600#0" />
+                <element signature="e#11725#11932#1" />
+                <element signature="e#11868#11918#1" />
+                <element signature="e#11945#11979#0" />
+                <element signature="n#!!block;n#replaceProto#0;n#CardProto#0" />
+                <element signature="e#13447#13462#0" />
+                <element signature="e#13742#13774#0" />
+                <element signature="e#13779#13826#0" />
+                <element signature="e#13831#13884#0" />
+                <element signature="e#13889#13945#0" />
+                <element signature="e#13950#13981#0" />
+                <element signature="e#14062#14109#0" />
+                <element signature="e#14114#14170#0" />
+                <element signature="e#14175#14236#0" />
+                <element signature="e#14241#14318#0" />
+                <element signature="e#14323#14380#0" />
+                <element signature="e#14385#14462#0" />
+                <element signature="e#14467#14499#0" />
+                <element signature="n#ERC165#0" />
+                <element signature="e#14633#14688#0" />
+                <element signature="e#14693#14765#0" />
+                <element signature="e#14770#14842#0" />
+                <element signature="e#14847#14878#0" />
+                <element signature="e#14883#14946#0" />
+                <element signature="e#14951#15006#0" />
+                <element signature="n#ERC721#0" />
+                <element signature="n#!!block;n#transfer#0;n#CardOwnership#0" />
+                <element signature="n#!!block;n#_transfer#0;n#CardOwnership#0" />
+                <element signature="n#!!block;n#burnAll#0;n#CardOwnership#0" />
+                <element signature="e#20361#20398#1" />
+                <element signature="e#20410#20529#0" />
+                <element signature="n#!!block;n#approve#0;n#CardOwnership#0" />
+                <element signature="e#20755#20878#0" />
+                <element signature="n#!!block;n#approveAll#0;n#CardOwnership#0" />
+                <element signature="e#20990#21034#1" />
+                <element signature="e#21046#21164#0" />
+                <element signature="n#!!block;n#getApproved#0;n#CardOwnership#0" />
+                <element signature="n#!!block;n#balanceOf#0;n#CardOwnership#0" />
+                <element signature="e#21498#21621#0" />
+                <element signature="n#!!block;n#exists#0;n#CardOwnership#0" />
+                <element signature="e#21732#21866#0" />
+                <element signature="n#!!block;n#transferFrom#0;n#CardOwnership#0" />
+                <element signature="e#22028#22058#0" />
+                <element signature="e#22067#22129#0" />
+                <element signature="e#22310#22449#0" />
+                <element signature="n#!!block;n#transferAllFrom#0;n#CardOwnership#0" />
+                <element signature="e#22566#22627#1" />
+                <element signature="n#!!block;n#isApprovedForAll#0;n#CardOwnership#0" />
+                <element signature="n#!!block;n#setApprovalForAll#0;n#CardOwnership#0" />
+                <element signature="n#!!block;n#safeTransferFrom#0;n#CardOwnership#0" />
+                <element signature="e#23439#23589#1" />
+                <element signature="n#!!block;n#safeTransferFrom#1;n#CardOwnership#0" />
+                <element signature="n#!!block;n#_addToken#0;n#CardOwnership#0" />
+                <element signature="n#!!block;n#_removeToken#0;n#CardOwnership#0" />
+                <element signature="n#!!block;n#isSenderApprovedFor#0;n#CardOwnership#0" />
+                <element signature="n#!!block;n#_isContract#0;n#CardOwnership#0" />
+                <element signature="n#!!block;n#tokenURI#0;n#CardOwnership#0" />
+                <element signature="n#!!block;n#tokenOfOwnerByIndex#0;n#CardOwnership#0" />
+                <element signature="n#!!block;n#tokenByIndex#0;n#CardOwnership#0" />
+                <element signature="n#!!block;n#supportsInterface#0;n#CardOwnership#0" />
+                <element signature="e#25117#25126#0" />
+                <element signature="e#25164#25181#0" />
+                <element signature="e#25219#25241#0" />
+                <element signature="e#25287#25306#0" />
+                <element signature="n#!!block;n#implementsERC721#0;n#CardOwnership#0" />
+                <element signature="n#!!block;n#getOwnedTokens#0;n#CardOwnership#0" />
+                <element signature="e#25525#25595#0" />
+                <element signature="n#ERC721TokenReceiver#0" />
+                <element signature="e#25632#25672#0" />
+                <element signature="e#25677#25748#0" />
+                <element signature="e#25753#25826#0" />
+                <element signature="e#25831#25904#0" />
+                <element signature="e#25909#25981#0" />
+                <element signature="e#25986#26047#0" />
+                <element signature="e#26052#26088#0" />
+                <element signature="e#26093#26157#0" />
+                <element signature="e#26162#26219#0" />
+                <element signature="e#26224#26298#0" />
+                <element signature="e#26303#26323#0" />
+                <element signature="n#!!block;n#addPack#0;n#CardIntegration#0" />
+                <element signature="n#!!block;n#onlyApprovedPacks#0;n#CardIntegration#0" />
+                <element signature="n#!!block;n#_isApprovedPack#0;n#CardIntegration#0" />
+                <element signature="e#26879#26984#1" />
+                <element signature="e#26930#26974#1" />
+                <element signature="n#!!block;n#createCard#0;n#CardIntegration#0" />
+                <element signature="e#27274#27461#1" />
+                <element signature="n#!!block;n#_createCard#0;n#CardIntegration#0" />
+                <element signature="e#29372#29403#0" />
+                <element signature="n#!!block;n#packSize#0;n#PresalePack#0" />
+                <element signature="n#!!block;n#packsPerClaim#0;n#PresalePack#0" />
+                <element signature="e#29750#29784#0" />
+                <element signature="n#!!block;n#extract#0;n#PresalePack#0" />
+                <element signature="n#!!block;n#purchase#0;n#PresalePack#0" />
+                <element signature="e#30619#30809#1" />
+                <element signature="n#!!block;n#_getRarePlusRarity#0;n#PresalePack#0" />
+                <element signature="e#34285#34340#1" />
+                <element signature="e#34366#34424#1" />
+                <element signature="e#34450#34503#1" />
+                <element signature="e#34509#34562#1" />
+                <element signature="n#!!block;n#_getEpicPlusRarity#0;n#PresalePack#0" />
+                <element signature="e#34686#34741#1" />
+                <element signature="e#34767#34825#1" />
+                <element signature="e#34831#34884#1" />
+                <element signature="n#!!block;n#_getLegendaryPlusRarity#0;n#PresalePack#0" />
+                <element signature="e#35013#35068#1" />
+                <element signature="e#35074#35132#1" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LegendaryPack.sol" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/contracts/LegendaryPack.sol">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="n#!!block;n#getCardDetails#0;n#LegendaryPackTwo#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".env" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Migrations.sol" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contracts/Migrations.sol">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Solidity Contract" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>migrate(</find>
+      <find>is gover</find>
+      <find>is card</find>
+      <find>.migrate</find>
+      <find>getCard</find>
+      <find>cosmetica</find>
+      <find>.god</find>
+      <find>cardproto</find>
+      <find>trx</find>
+      <find>constructor</find>
+      <find>migration</find>
+      <find>rarity</find>
+      <find>basePrice</find>
+      <find>0.4.24</find>
+      <find>ownership</find>
+      <find>cardownership</find>
+      <find>contract Ownable</find>
+      <find>cardintegration</find>
+      <find>proto</find>
+      <find>Proto</find>
+      <find>mythic</find>
+      <find>Mythic</find>
+      <find>CardStatsa</find>
+      <find>tri</find>
+      <find>tribe</find>
+      <find>god</find>
+      <find>callback</find>
+      <find>purity</find>
+      <find>Purity</find>
+      <find>getCardDetails</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>keyword</replace>
+      <replace>statsa</replace>
+      <replace>Statsa</replace>
+      <replace>masterpiece</replace>
+      <replace>Masterpiece</replace>
+      <replace>CardData</replace>
+      <replace>kword</replace>
+      <replace>style</replace>
+      <replace>cosmetica</replace>
+      <replace>Cosmetica</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>Z:\文档\TronTCG\tron</dir>
+      <dir>Z:\文档\TronTCG\tron\contracts</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/contracts/Purchase.sol" />
+        <option value="$PROJECT_DIR$/contracts/purchase.sol" />
+        <option value="$PROJECT_DIR$/contracts/CardBase.sol" />
+        <option value="$PROJECT_DIR$/contracts/Card.sol" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/contracts/OriCardIntegration.sol" />
+        <option value="$PROJECT_DIR$/contracts/Common.sol" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/contracts/LegendaryPack.sol" />
+        <option value="$PROJECT_DIR$/contracts/OriRarePack.sol" />
+        <option value="$PROJECT_DIR$/contracts/EpicPackOri.sol" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1913" />
+    <option name="y" value="-347" />
+    <option name="width" value="1208" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tron" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tron" type="462c0819:PsiDirectoryNode" />
+              <item name="contracts" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="capped&#9;null&#9;null&#10;migrate&#9;null&#9;null&#10;rarity&#9;null&#9;null&#10;cardmi&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.15.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../TronLink-Demo-Messages" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="Z:\文档\TronTCG\tron\contracts" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.compile">
+    <configuration name="compile" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="compile" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+    </configuration>
+    <configuration name="deployShasta" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="deployShasta" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+    </configuration>
+    <list>
+      <item itemvalue="npm.compile" />
+      <item itemvalue="npm.deployShasta" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.deployShasta" />
+        <item itemvalue="npm.compile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d5265a5-aa18-4f64-80f7-d55f825781ad" name="Default" comment="" />
+      <created>1546058830103</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546058830103</updated>
+      <workItem from="1546058832874" duration="67500000" />
+      <workItem from="1546260277804" duration="88000" />
+      <workItem from="1546260386053" duration="8553000" />
+      <workItem from="1546303058481" duration="1137000" />
+      <workItem from="1546406134105" duration="12520000" />
+      <workItem from="1546616696031" duration="6816000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="96614000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-355" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4951613" visible="true" weight="0.12908325" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50052685" side_tool="true" visible="true" weight="0.32827735" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49947312" weight="0.33152762" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49841937" weight="0.3261105" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4991453" weight="0.32932165" />
+      <window_info id="npm" order="2" sideWeight="0.5048387" side_tool="true" visible="true" weight="0.12908325" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49947312" visible="true" weight="0.32827735" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/contracts/LegendaryPack.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="48" lean-forward="true" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+          <folding>
+            <element signature="n#!!block;n#getCardDetails#0;n#LegendaryPackTwo#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contracts/Migrations.sol">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contracts/Common.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="989">
+          <caret line="43" column="22" lean-forward="true" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
+          <folding>
+            <element signature="n#Ownable#0" />
+            <element signature="n#!!block;n#setOwner#0;n#Ownable#0" />
+            <element signature="n#!!block;n#onlyOwner#0;n#Ownable#0" />
+            <element signature="n#!!block;n#withdraw#0;n#CappedVault#0" />
+            <element signature="n#Governable#0" />
+            <element signature="e#1372#1410#0" />
+            <element signature="n#!!block;n#setGovernor#0;n#Governable#0" />
+            <element signature="n#!!block;n#onlyGovernor#0;n#Governable#0" />
+            <element signature="e#1596#1692#0" />
+            <element signature="n#!!block;n#whenNotPaused#0;n#Governable#0" />
+            <element signature="e#1772#1864#0" />
+            <element signature="n#!!block;n#whenPaused#0;n#Governable#0" />
+            <element signature="e#1940#2014#0" />
+            <element signature="n#!!block;n#pause#0;n#Governable#0" />
+            <element signature="e#2128#2205#0" />
+            <element signature="n#!!block;n#unpause#0;n#Governable#0" />
+            <element signature="n#Pausable#0" />
+            <element signature="n#!!block;n#whenNotPaused#0;n#Pausable#0" />
+            <element signature="n#!!block;n#whenPaused#0;n#Pausable#0" />
+            <element signature="n#!!block;n#pause#0;n#Pausable#0" />
+            <element signature="n#!!block;n#unpause#0;n#Pausable#0" />
+            <element signature="n#!!block;n#getLimit#0;n#CardProto#0" />
+            <element signature="n#!!block;n#makePermanantlyTradable#0;n#CardProto#0" />
+            <element signature="n#!!block;n#isTradable#0;n#CardProto#0" />
+            <element signature="n#!!block;n#nextSeason#0;n#CardProto#0" />
+            <element signature="e#5241#5356#0" />
+            <element signature="n#!!block;n#addProtos#0;n#CardProto#0" />
+            <element signature="e#6796#7248#1" />
+            <element signature="n#!!block;n#addProto#0;n#CardProto#0" />
+            <element signature="n#!!block;n#addWeapon#0;n#CardProto#0" />
+            <element signature="n#!!block;n#addSpell#0;n#CardProto#0" />
+            <element signature="n#!!block;n#_addProto#0;n#CardProto#0" />
+            <element signature="e#9839#10404#1" />
+            <element signature="e#9923#9979#1" />
+            <element signature="e#10012#10066#1" />
+            <element signature="e#10099#10153#1" />
+            <element signature="e#10191#10250#1" />
+            <element signature="e#10285#10341#1" />
+            <element signature="e#10347#10394#1" />
+            <element signature="n#!!block;n#getRandomCard#0;n#CardProto#0" />
+            <element signature="e#10972#11021#0" />
+            <element signature="e#11030#11129#0" />
+            <element signature="e#11167#11229#1" />
+            <element signature="e#11262#11320#1" />
+            <element signature="e#11353#11411#1" />
+            <element signature="e#11449#11517#1" />
+            <element signature="e#11552#12046#1" />
+            <element signature="e#11566#11600#0" />
+            <element signature="e#11725#11932#1" />
+            <element signature="e#11868#11918#1" />
+            <element signature="e#11945#11979#0" />
+            <element signature="n#!!block;n#replaceProto#0;n#CardProto#0" />
+            <element signature="e#13447#13462#0" />
+            <element signature="e#13742#13774#0" />
+            <element signature="e#13779#13826#0" />
+            <element signature="e#13831#13884#0" />
+            <element signature="e#13889#13945#0" />
+            <element signature="e#13950#13981#0" />
+            <element signature="e#14062#14109#0" />
+            <element signature="e#14114#14170#0" />
+            <element signature="e#14175#14236#0" />
+            <element signature="e#14241#14318#0" />
+            <element signature="e#14323#14380#0" />
+            <element signature="e#14385#14462#0" />
+            <element signature="e#14467#14499#0" />
+            <element signature="n#ERC165#0" />
+            <element signature="e#14633#14688#0" />
+            <element signature="e#14693#14765#0" />
+            <element signature="e#14770#14842#0" />
+            <element signature="e#14847#14878#0" />
+            <element signature="e#14883#14946#0" />
+            <element signature="e#14951#15006#0" />
+            <element signature="n#ERC721#0" />
+            <element signature="n#!!block;n#transfer#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#_transfer#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#burnAll#0;n#CardOwnership#0" />
+            <element signature="e#20361#20398#1" />
+            <element signature="e#20410#20529#0" />
+            <element signature="n#!!block;n#approve#0;n#CardOwnership#0" />
+            <element signature="e#20755#20878#0" />
+            <element signature="n#!!block;n#approveAll#0;n#CardOwnership#0" />
+            <element signature="e#20990#21034#1" />
+            <element signature="e#21046#21164#0" />
+            <element signature="n#!!block;n#getApproved#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#balanceOf#0;n#CardOwnership#0" />
+            <element signature="e#21498#21621#0" />
+            <element signature="n#!!block;n#exists#0;n#CardOwnership#0" />
+            <element signature="e#21732#21866#0" />
+            <element signature="n#!!block;n#transferFrom#0;n#CardOwnership#0" />
+            <element signature="e#22028#22058#0" />
+            <element signature="e#22067#22129#0" />
+            <element signature="e#22310#22449#0" />
+            <element signature="n#!!block;n#transferAllFrom#0;n#CardOwnership#0" />
+            <element signature="e#22566#22627#1" />
+            <element signature="n#!!block;n#isApprovedForAll#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#setApprovalForAll#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#safeTransferFrom#0;n#CardOwnership#0" />
+            <element signature="e#23439#23589#1" />
+            <element signature="n#!!block;n#safeTransferFrom#1;n#CardOwnership#0" />
+            <element signature="n#!!block;n#_addToken#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#_removeToken#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#isSenderApprovedFor#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#_isContract#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#tokenURI#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#tokenOfOwnerByIndex#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#tokenByIndex#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#supportsInterface#0;n#CardOwnership#0" />
+            <element signature="e#25117#25126#0" />
+            <element signature="e#25164#25181#0" />
+            <element signature="e#25219#25241#0" />
+            <element signature="e#25287#25306#0" />
+            <element signature="n#!!block;n#implementsERC721#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#getOwnedTokens#0;n#CardOwnership#0" />
+            <element signature="e#25525#25595#0" />
+            <element signature="n#ERC721TokenReceiver#0" />
+            <element signature="e#25632#25672#0" />
+            <element signature="e#25677#25748#0" />
+            <element signature="e#25753#25826#0" />
+            <element signature="e#25831#25904#0" />
+            <element signature="e#25909#25981#0" />
+            <element signature="e#25986#26047#0" />
+            <element signature="e#26052#26088#0" />
+            <element signature="e#26093#26157#0" />
+            <element signature="e#26162#26219#0" />
+            <element signature="e#26224#26298#0" />
+            <element signature="e#26303#26323#0" />
+            <element signature="n#!!block;n#addPack#0;n#CardIntegration#0" />
+            <element signature="n#!!block;n#onlyApprovedPacks#0;n#CardIntegration#0" />
+            <element signature="n#!!block;n#_isApprovedPack#0;n#CardIntegration#0" />
+            <element signature="e#26879#26984#1" />
+            <element signature="e#26930#26974#1" />
+            <element signature="n#!!block;n#createCard#0;n#CardIntegration#0" />
+            <element signature="e#27274#27461#1" />
+            <element signature="n#!!block;n#_createCard#0;n#CardIntegration#0" />
+            <element signature="e#29372#29403#0" />
+            <element signature="n#!!block;n#packSize#0;n#PresalePack#0" />
+            <element signature="n#!!block;n#packsPerClaim#0;n#PresalePack#0" />
+            <element signature="e#29750#29784#0" />
+            <element signature="n#!!block;n#extract#0;n#PresalePack#0" />
+            <element signature="n#!!block;n#purchase#0;n#PresalePack#0" />
+            <element signature="e#30619#30809#1" />
+            <element signature="n#!!block;n#_getRarePlusRarity#0;n#PresalePack#0" />
+            <element signature="e#34285#34340#1" />
+            <element signature="e#34366#34424#1" />
+            <element signature="e#34450#34503#1" />
+            <element signature="e#34509#34562#1" />
+            <element signature="n#!!block;n#_getEpicPlusRarity#0;n#PresalePack#0" />
+            <element signature="e#34686#34741#1" />
+            <element signature="e#34767#34825#1" />
+            <element signature="e#34831#34884#1" />
+            <element signature="n#!!block;n#_getLegendaryPlusRarity#0;n#PresalePack#0" />
+            <element signature="e#35013#35068#1" />
+            <element signature="e#35074#35132#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contracts/purchase.sol" />
+    <entry file="file://$PROJECT_DIR$/tronbox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="45" column="33" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tronbox-config.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contracts/CardBase.sol" />
+    <entry file="file://$PROJECT_DIR$/contracts/Common.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+          <folding>
+            <element signature="n#Ownable#0" />
+            <element signature="n#!!block;n#setOwner#0;n#Ownable#0" />
+            <element signature="n#!!block;n#onlyOwner#0;n#Ownable#0" />
+            <element signature="n#!!block;n#withdraw#0;n#CappedVault#0" />
+            <element signature="n#Governable#0" />
+            <element signature="e#1372#1410#0" />
+            <element signature="n#!!block;n#setGovernor#0;n#Governable#0" />
+            <element signature="n#!!block;n#onlyGovernor#0;n#Governable#0" />
+            <element signature="e#1596#1692#0" />
+            <element signature="n#!!block;n#whenNotPaused#0;n#Governable#0" />
+            <element signature="e#1772#1864#0" />
+            <element signature="n#!!block;n#whenPaused#0;n#Governable#0" />
+            <element signature="e#1940#2014#0" />
+            <element signature="n#!!block;n#pause#0;n#Governable#0" />
+            <element signature="e#2128#2205#0" />
+            <element signature="n#!!block;n#unpause#0;n#Governable#0" />
+            <element signature="n#Pausable#0" />
+            <element signature="n#!!block;n#whenNotPaused#0;n#Pausable#0" />
+            <element signature="n#!!block;n#whenPaused#0;n#Pausable#0" />
+            <element signature="n#!!block;n#pause#0;n#Pausable#0" />
+            <element signature="n#!!block;n#unpause#0;n#Pausable#0" />
+            <element signature="n#!!block;n#getLimit#0;n#CardProto#0" />
+            <element signature="n#!!block;n#makePermanantlyTradable#0;n#CardProto#0" />
+            <element signature="n#!!block;n#isTradable#0;n#CardProto#0" />
+            <element signature="n#!!block;n#nextSeason#0;n#CardProto#0" />
+            <element signature="e#5241#5356#0" />
+            <element signature="n#!!block;n#addProtos#0;n#CardProto#0" />
+            <element signature="e#6796#7248#1" />
+            <element signature="n#!!block;n#addProto#0;n#CardProto#0" />
+            <element signature="n#!!block;n#addWeapon#0;n#CardProto#0" />
+            <element signature="n#!!block;n#addSpell#0;n#CardProto#0" />
+            <element signature="n#!!block;n#_addProto#0;n#CardProto#0" />
+            <element signature="e#9839#10404#1" />
+            <element signature="e#9923#9979#1" />
+            <element signature="e#10012#10066#1" />
+            <element signature="e#10099#10153#1" />
+            <element signature="e#10191#10250#1" />
+            <element signature="e#10285#10341#1" />
+            <element signature="e#10347#10394#1" />
+            <element signature="n#!!block;n#getRandomCard#0;n#CardProto#0" />
+            <element signature="e#10972#11021#0" />
+            <element signature="e#11030#11129#0" />
+            <element signature="e#11167#11229#1" />
+            <element signature="e#11262#11320#1" />
+            <element signature="e#11353#11411#1" />
+            <element signature="e#11449#11517#1" />
+            <element signature="e#11552#12046#1" />
+            <element signature="e#11566#11600#0" />
+            <element signature="e#11725#11932#1" />
+            <element signature="e#11868#11918#1" />
+            <element signature="e#11945#11979#0" />
+            <element signature="n#!!block;n#replaceProto#0;n#CardProto#0" />
+            <element signature="e#13447#13462#0" />
+            <element signature="e#13742#13774#0" />
+            <element signature="e#13779#13826#0" />
+            <element signature="e#13831#13884#0" />
+            <element signature="e#13889#13945#0" />
+            <element signature="e#13950#13981#0" />
+            <element signature="e#14062#14109#0" />
+            <element signature="e#14114#14170#0" />
+            <element signature="e#14175#14236#0" />
+            <element signature="e#14241#14318#0" />
+            <element signature="e#14323#14380#0" />
+            <element signature="e#14385#14462#0" />
+            <element signature="e#14467#14499#0" />
+            <element signature="n#ERC165#0" />
+            <element signature="e#14633#14688#0" />
+            <element signature="e#14693#14765#0" />
+            <element signature="e#14770#14842#0" />
+            <element signature="e#14847#14878#0" />
+            <element signature="e#14883#14946#0" />
+            <element signature="e#14951#15006#0" />
+            <element signature="n#ERC721#0" />
+            <element signature="n#!!block;n#transfer#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#_transfer#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#burnAll#0;n#CardOwnership#0" />
+            <element signature="e#20361#20398#1" />
+            <element signature="e#20410#20529#0" />
+            <element signature="n#!!block;n#approve#0;n#CardOwnership#0" />
+            <element signature="e#20755#20878#0" />
+            <element signature="n#!!block;n#approveAll#0;n#CardOwnership#0" />
+            <element signature="e#20990#21034#1" />
+            <element signature="e#21046#21164#0" />
+            <element signature="n#!!block;n#getApproved#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#balanceOf#0;n#CardOwnership#0" />
+            <element signature="e#21498#21621#0" />
+            <element signature="n#!!block;n#exists#0;n#CardOwnership#0" />
+            <element signature="e#21732#21866#0" />
+            <element signature="n#!!block;n#transferFrom#0;n#CardOwnership#0" />
+            <element signature="e#22028#22058#0" />
+            <element signature="e#22067#22129#0" />
+            <element signature="e#22310#22449#0" />
+            <element signature="n#!!block;n#transferAllFrom#0;n#CardOwnership#0" />
+            <element signature="e#22566#22627#1" />
+            <element signature="n#!!block;n#isApprovedForAll#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#setApprovalForAll#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#safeTransferFrom#0;n#CardOwnership#0" />
+            <element signature="e#23439#23589#1" />
+            <element signature="n#!!block;n#safeTransferFrom#1;n#CardOwnership#0" />
+            <element signature="n#!!block;n#_addToken#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#_removeToken#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#isSenderApprovedFor#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#_isContract#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#tokenURI#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#tokenOfOwnerByIndex#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#tokenByIndex#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#supportsInterface#0;n#CardOwnership#0" />
+            <element signature="e#25117#25126#0" />
+            <element signature="e#25164#25181#0" />
+            <element signature="e#25219#25241#0" />
+            <element signature="e#25287#25306#0" />
+            <element signature="n#!!block;n#implementsERC721#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#getOwnedTokens#0;n#CardOwnership#0" />
+            <element signature="e#25525#25595#0" />
+            <element signature="n#ERC721TokenReceiver#0" />
+            <element signature="e#25632#25672#0" />
+            <element signature="e#25677#25748#0" />
+            <element signature="e#25753#25826#0" />
+            <element signature="e#25831#25904#0" />
+            <element signature="e#25909#25981#0" />
+            <element signature="e#25986#26047#0" />
+            <element signature="e#26052#26088#0" />
+            <element signature="e#26093#26157#0" />
+            <element signature="e#26162#26219#0" />
+            <element signature="e#26224#26298#0" />
+            <element signature="e#26303#26323#0" />
+            <element signature="n#!!block;n#addPack#0;n#CardIntegration#0" />
+            <element signature="n#!!block;n#onlyApprovedPacks#0;n#CardIntegration#0" />
+            <element signature="n#!!block;n#_isApprovedPack#0;n#CardIntegration#0" />
+            <element signature="e#26879#26984#1" />
+            <element signature="e#26930#26974#1" />
+            <element signature="n#!!block;n#createCard#0;n#CardIntegration#0" />
+            <element signature="e#27274#27461#1" />
+            <element signature="n#!!block;n#_createCard#0;n#CardIntegration#0" />
+            <element signature="e#29372#29403#0" />
+            <element signature="n#!!block;n#packSize#0;n#PresalePack#0" />
+            <element signature="n#!!block;n#packsPerClaim#0;n#PresalePack#0" />
+            <element signature="e#29750#29784#0" />
+            <element signature="n#!!block;n#extract#0;n#PresalePack#0" />
+            <element signature="n#!!block;n#purchase#0;n#PresalePack#0" />
+            <element signature="e#30619#30809#1" />
+            <element signature="n#!!block;n#_getRarePlusRarity#0;n#PresalePack#0" />
+            <element signature="e#34285#34340#1" />
+            <element signature="e#34366#34424#1" />
+            <element signature="e#34450#34503#1" />
+            <element signature="e#34509#34562#1" />
+            <element signature="n#!!block;n#_getEpicPlusRarity#0;n#PresalePack#0" />
+            <element signature="e#34686#34741#1" />
+            <element signature="e#34767#34825#1" />
+            <element signature="e#34831#34884#1" />
+            <element signature="n#!!block;n#_getLegendaryPlusRarity#0;n#PresalePack#0" />
+            <element signature="e#35013#35068#1" />
+            <element signature="e#35074#35132#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contracts/Card.sol" />
+    <entry file="file://$PROJECT_DIR$/contracts/Migrations.sol">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="61" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contracts/purchase.sol" />
+    <entry file="file://$PROJECT_DIR$/tronbox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="45" column="33" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="61" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tronbox-config.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contracts/CardBase.sol" />
+    <entry file="file://$PROJECT_DIR$/contracts/Common.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+          <folding>
+            <element signature="n#Ownable#0" />
+            <element signature="n#!!block;n#setOwner#0;n#Ownable#0" />
+            <element signature="n#!!block;n#onlyOwner#0;n#Ownable#0" />
+            <element signature="n#!!block;n#withdraw#0;n#CappedVault#0" />
+            <element signature="n#Governable#0" />
+            <element signature="e#1372#1410#0" />
+            <element signature="n#!!block;n#setGovernor#0;n#Governable#0" />
+            <element signature="n#!!block;n#onlyGovernor#0;n#Governable#0" />
+            <element signature="e#1596#1692#0" />
+            <element signature="n#!!block;n#whenNotPaused#0;n#Governable#0" />
+            <element signature="e#1772#1864#0" />
+            <element signature="n#!!block;n#whenPaused#0;n#Governable#0" />
+            <element signature="e#1940#2014#0" />
+            <element signature="n#!!block;n#pause#0;n#Governable#0" />
+            <element signature="e#2128#2205#0" />
+            <element signature="n#!!block;n#unpause#0;n#Governable#0" />
+            <element signature="n#Pausable#0" />
+            <element signature="n#!!block;n#whenNotPaused#0;n#Pausable#0" />
+            <element signature="n#!!block;n#whenPaused#0;n#Pausable#0" />
+            <element signature="n#!!block;n#pause#0;n#Pausable#0" />
+            <element signature="n#!!block;n#unpause#0;n#Pausable#0" />
+            <element signature="n#!!block;n#getLimit#0;n#CardProto#0" />
+            <element signature="n#!!block;n#makePermanantlyTradable#0;n#CardProto#0" />
+            <element signature="n#!!block;n#isTradable#0;n#CardProto#0" />
+            <element signature="n#!!block;n#nextSeason#0;n#CardProto#0" />
+            <element signature="e#5241#5356#0" />
+            <element signature="n#!!block;n#addProtos#0;n#CardProto#0" />
+            <element signature="e#6796#7248#1" />
+            <element signature="n#!!block;n#addProto#0;n#CardProto#0" />
+            <element signature="n#!!block;n#addWeapon#0;n#CardProto#0" />
+            <element signature="n#!!block;n#addSpell#0;n#CardProto#0" />
+            <element signature="n#!!block;n#_addProto#0;n#CardProto#0" />
+            <element signature="e#9839#10404#1" />
+            <element signature="e#9923#9979#1" />
+            <element signature="e#10012#10066#1" />
+            <element signature="e#10099#10153#1" />
+            <element signature="e#10191#10250#1" />
+            <element signature="e#10285#10341#1" />
+            <element signature="e#10347#10394#1" />
+            <element signature="n#!!block;n#getRandomCard#0;n#CardProto#0" />
+            <element signature="e#10972#11021#0" />
+            <element signature="e#11030#11129#0" />
+            <element signature="e#11167#11229#1" />
+            <element signature="e#11262#11320#1" />
+            <element signature="e#11353#11411#1" />
+            <element signature="e#11449#11517#1" />
+            <element signature="e#11552#12046#1" />
+            <element signature="e#11566#11600#0" />
+            <element signature="e#11725#11932#1" />
+            <element signature="e#11868#11918#1" />
+            <element signature="e#11945#11979#0" />
+            <element signature="n#!!block;n#replaceProto#0;n#CardProto#0" />
+            <element signature="e#13447#13462#0" />
+            <element signature="e#13742#13774#0" />
+            <element signature="e#13779#13826#0" />
+            <element signature="e#13831#13884#0" />
+            <element signature="e#13889#13945#0" />
+            <element signature="e#13950#13981#0" />
+            <element signature="e#14062#14109#0" />
+            <element signature="e#14114#14170#0" />
+            <element signature="e#14175#14236#0" />
+            <element signature="e#14241#14318#0" />
+            <element signature="e#14323#14380#0" />
+            <element signature="e#14385#14462#0" />
+            <element signature="e#14467#14499#0" />
+            <element signature="n#ERC165#0" />
+            <element signature="e#14633#14688#0" />
+            <element signature="e#14693#14765#0" />
+            <element signature="e#14770#14842#0" />
+            <element signature="e#14847#14878#0" />
+            <element signature="e#14883#14946#0" />
+            <element signature="e#14951#15006#0" />
+            <element signature="n#ERC721#0" />
+            <element signature="n#!!block;n#transfer#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#_transfer#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#burnAll#0;n#CardOwnership#0" />
+            <element signature="e#20361#20398#1" />
+            <element signature="e#20410#20529#0" />
+            <element signature="n#!!block;n#approve#0;n#CardOwnership#0" />
+            <element signature="e#20755#20878#0" />
+            <element signature="n#!!block;n#approveAll#0;n#CardOwnership#0" />
+            <element signature="e#20990#21034#1" />
+            <element signature="e#21046#21164#0" />
+            <element signature="n#!!block;n#getApproved#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#balanceOf#0;n#CardOwnership#0" />
+            <element signature="e#21498#21621#0" />
+            <element signature="n#!!block;n#exists#0;n#CardOwnership#0" />
+            <element signature="e#21732#21866#0" />
+            <element signature="n#!!block;n#transferFrom#0;n#CardOwnership#0" />
+            <element signature="e#22028#22058#0" />
+            <element signature="e#22067#22129#0" />
+            <element signature="e#22310#22449#0" />
+            <element signature="n#!!block;n#transferAllFrom#0;n#CardOwnership#0" />
+            <element signature="e#22566#22627#1" />
+            <element signature="n#!!block;n#isApprovedForAll#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#setApprovalForAll#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#safeTransferFrom#0;n#CardOwnership#0" />
+            <element signature="e#23439#23589#1" />
+            <element signature="n#!!block;n#safeTransferFrom#1;n#CardOwnership#0" />
+            <element signature="n#!!block;n#_addToken#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#_removeToken#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#isSenderApprovedFor#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#_isContract#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#tokenURI#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#tokenOfOwnerByIndex#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#tokenByIndex#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#supportsInterface#0;n#CardOwnership#0" />
+            <element signature="e#25117#25126#0" />
+            <element signature="e#25164#25181#0" />
+            <element signature="e#25219#25241#0" />
+            <element signature="e#25287#25306#0" />
+            <element signature="n#!!block;n#implementsERC721#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#getOwnedTokens#0;n#CardOwnership#0" />
+            <element signature="e#25525#25595#0" />
+            <element signature="n#ERC721TokenReceiver#0" />
+            <element signature="e#25632#25672#0" />
+            <element signature="e#25677#25748#0" />
+            <element signature="e#25753#25826#0" />
+            <element signature="e#25831#25904#0" />
+            <element signature="e#25909#25981#0" />
+            <element signature="e#25986#26047#0" />
+            <element signature="e#26052#26088#0" />
+            <element signature="e#26093#26157#0" />
+            <element signature="e#26162#26219#0" />
+            <element signature="e#26224#26298#0" />
+            <element signature="e#26303#26323#0" />
+            <element signature="n#!!block;n#addPack#0;n#CardIntegration#0" />
+            <element signature="n#!!block;n#onlyApprovedPacks#0;n#CardIntegration#0" />
+            <element signature="n#!!block;n#_isApprovedPack#0;n#CardIntegration#0" />
+            <element signature="e#26879#26984#1" />
+            <element signature="e#26930#26974#1" />
+            <element signature="n#!!block;n#createCard#0;n#CardIntegration#0" />
+            <element signature="e#27274#27461#1" />
+            <element signature="n#!!block;n#_createCard#0;n#CardIntegration#0" />
+            <element signature="e#29372#29403#0" />
+            <element signature="n#!!block;n#packSize#0;n#PresalePack#0" />
+            <element signature="n#!!block;n#packsPerClaim#0;n#PresalePack#0" />
+            <element signature="e#29750#29784#0" />
+            <element signature="n#!!block;n#extract#0;n#PresalePack#0" />
+            <element signature="n#!!block;n#purchase#0;n#PresalePack#0" />
+            <element signature="e#30619#30809#1" />
+            <element signature="n#!!block;n#_getRarePlusRarity#0;n#PresalePack#0" />
+            <element signature="e#34285#34340#1" />
+            <element signature="e#34366#34424#1" />
+            <element signature="e#34450#34503#1" />
+            <element signature="e#34509#34562#1" />
+            <element signature="n#!!block;n#_getEpicPlusRarity#0;n#PresalePack#0" />
+            <element signature="e#34686#34741#1" />
+            <element signature="e#34767#34825#1" />
+            <element signature="e#34831#34884#1" />
+            <element signature="n#!!block;n#_getLegendaryPlusRarity#0;n#PresalePack#0" />
+            <element signature="e#35013#35068#1" />
+            <element signature="e#35074#35132#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contracts/Card.sol" />
+    <entry file="file://$PROJECT_DIR$/contracts/Migrations.sol">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contracts/purchase.sol" />
+    <entry file="file://$PROJECT_DIR$/tronbox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="45" column="33" lean-forward="true" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="61" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tronbox-config.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contracts/Common.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
+          <folding>
+            <element signature="n#Ownable#0" />
+            <element signature="n#!!block;n#setOwner#0;n#Ownable#0" />
+            <element signature="n#!!block;n#onlyOwner#0;n#Ownable#0" />
+            <element signature="n#!!block;n#withdraw#0;n#CappedVault#0" />
+            <element signature="n#Governable#0" />
+            <element signature="e#1372#1410#0" />
+            <element signature="n#!!block;n#setGovernor#0;n#Governable#0" />
+            <element signature="n#!!block;n#onlyGovernor#0;n#Governable#0" />
+            <element signature="e#1596#1692#0" />
+            <element signature="n#!!block;n#whenNotPaused#0;n#Governable#0" />
+            <element signature="e#1772#1864#0" />
+            <element signature="n#!!block;n#whenPaused#0;n#Governable#0" />
+            <element signature="e#1940#2014#0" />
+            <element signature="n#!!block;n#pause#0;n#Governable#0" />
+            <element signature="e#2128#2205#0" />
+            <element signature="n#!!block;n#unpause#0;n#Governable#0" />
+            <element signature="n#Pausable#0" />
+            <element signature="n#!!block;n#whenNotPaused#0;n#Pausable#0" />
+            <element signature="n#!!block;n#whenPaused#0;n#Pausable#0" />
+            <element signature="n#!!block;n#pause#0;n#Pausable#0" />
+            <element signature="n#!!block;n#unpause#0;n#Pausable#0" />
+            <element signature="n#!!block;n#getLimit#0;n#CardProto#0" />
+            <element signature="n#!!block;n#makePermanantlyTradable#0;n#CardProto#0" />
+            <element signature="n#!!block;n#isTradable#0;n#CardProto#0" />
+            <element signature="n#!!block;n#nextSeason#0;n#CardProto#0" />
+            <element signature="e#5241#5356#0" />
+            <element signature="n#!!block;n#addProtos#0;n#CardProto#0" />
+            <element signature="e#6796#7248#1" />
+            <element signature="n#!!block;n#addProto#0;n#CardProto#0" />
+            <element signature="n#!!block;n#addWeapon#0;n#CardProto#0" />
+            <element signature="n#!!block;n#addSpell#0;n#CardProto#0" />
+            <element signature="n#!!block;n#_addProto#0;n#CardProto#0" />
+            <element signature="e#9839#10404#1" />
+            <element signature="e#9923#9979#1" />
+            <element signature="e#10012#10066#1" />
+            <element signature="e#10099#10153#1" />
+            <element signature="e#10191#10250#1" />
+            <element signature="e#10285#10341#1" />
+            <element signature="e#10347#10394#1" />
+            <element signature="n#!!block;n#getRandomCard#0;n#CardProto#0" />
+            <element signature="e#10972#11021#0" />
+            <element signature="e#11030#11129#0" />
+            <element signature="e#11167#11229#1" />
+            <element signature="e#11262#11320#1" />
+            <element signature="e#11353#11411#1" />
+            <element signature="e#11449#11517#1" />
+            <element signature="e#11552#12046#1" />
+            <element signature="e#11566#11600#0" />
+            <element signature="e#11725#11932#1" />
+            <element signature="e#11868#11918#1" />
+            <element signature="e#11945#11979#0" />
+            <element signature="n#!!block;n#replaceProto#0;n#CardProto#0" />
+            <element signature="e#13447#13462#0" />
+            <element signature="e#13742#13774#0" />
+            <element signature="e#13779#13826#0" />
+            <element signature="e#13831#13884#0" />
+            <element signature="e#13889#13945#0" />
+            <element signature="e#13950#13981#0" />
+            <element signature="e#14062#14109#0" />
+            <element signature="e#14114#14170#0" />
+            <element signature="e#14175#14236#0" />
+            <element signature="e#14241#14318#0" />
+            <element signature="e#14323#14380#0" />
+            <element signature="e#14385#14462#0" />
+            <element signature="e#14467#14499#0" />
+            <element signature="n#ERC165#0" />
+            <element signature="e#14633#14688#0" />
+            <element signature="e#14693#14765#0" />
+            <element signature="e#14770#14842#0" />
+            <element signature="e#14847#14878#0" />
+            <element signature="e#14883#14946#0" />
+            <element signature="e#14951#15006#0" />
+            <element signature="n#ERC721#0" />
+            <element signature="n#!!block;n#transfer#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#_transfer#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#burnAll#0;n#CardOwnership#0" />
+            <element signature="e#20361#20398#1" />
+            <element signature="e#20410#20529#0" />
+            <element signature="n#!!block;n#approve#0;n#CardOwnership#0" />
+            <element signature="e#20755#20878#0" />
+            <element signature="n#!!block;n#approveAll#0;n#CardOwnership#0" />
+            <element signature="e#20990#21034#1" />
+            <element signature="e#21046#21164#0" />
+            <element signature="n#!!block;n#getApproved#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#balanceOf#0;n#CardOwnership#0" />
+            <element signature="e#21498#21621#0" />
+            <element signature="n#!!block;n#exists#0;n#CardOwnership#0" />
+            <element signature="e#21732#21866#0" />
+            <element signature="n#!!block;n#transferFrom#0;n#CardOwnership#0" />
+            <element signature="e#22028#22058#0" />
+            <element signature="e#22067#22129#0" />
+            <element signature="e#22310#22449#0" />
+            <element signature="n#!!block;n#transferAllFrom#0;n#CardOwnership#0" />
+            <element signature="e#22566#22627#1" />
+            <element signature="n#!!block;n#isApprovedForAll#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#setApprovalForAll#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#safeTransferFrom#0;n#CardOwnership#0" />
+            <element signature="e#23439#23589#1" />
+            <element signature="n#!!block;n#safeTransferFrom#1;n#CardOwnership#0" />
+            <element signature="n#!!block;n#_addToken#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#_removeToken#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#isSenderApprovedFor#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#_isContract#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#tokenURI#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#tokenOfOwnerByIndex#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#tokenByIndex#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#supportsInterface#0;n#CardOwnership#0" />
+            <element signature="e#25117#25126#0" />
+            <element signature="e#25164#25181#0" />
+            <element signature="e#25219#25241#0" />
+            <element signature="e#25287#25306#0" />
+            <element signature="n#!!block;n#implementsERC721#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#getOwnedTokens#0;n#CardOwnership#0" />
+            <element signature="e#25525#25595#0" />
+            <element signature="n#ERC721TokenReceiver#0" />
+            <element signature="e#25632#25672#0" />
+            <element signature="e#25677#25748#0" />
+            <element signature="e#25753#25826#0" />
+            <element signature="e#25831#25904#0" />
+            <element signature="e#25909#25981#0" />
+            <element signature="e#25986#26047#0" />
+            <element signature="e#26052#26088#0" />
+            <element signature="e#26093#26157#0" />
+            <element signature="e#26162#26219#0" />
+            <element signature="e#26224#26298#0" />
+            <element signature="e#26303#26323#0" />
+            <element signature="n#!!block;n#addPack#0;n#CardIntegration#0" />
+            <element signature="n#!!block;n#onlyApprovedPacks#0;n#CardIntegration#0" />
+            <element signature="n#!!block;n#_isApprovedPack#0;n#CardIntegration#0" />
+            <element signature="e#26879#26984#1" />
+            <element signature="e#26930#26974#1" />
+            <element signature="n#!!block;n#createCard#0;n#CardIntegration#0" />
+            <element signature="e#27274#27461#1" />
+            <element signature="n#!!block;n#_createCard#0;n#CardIntegration#0" />
+            <element signature="e#29372#29403#0" />
+            <element signature="n#!!block;n#packSize#0;n#PresalePack#0" />
+            <element signature="n#!!block;n#packsPerClaim#0;n#PresalePack#0" />
+            <element signature="e#29750#29784#0" />
+            <element signature="n#!!block;n#extract#0;n#PresalePack#0" />
+            <element signature="n#!!block;n#purchase#0;n#PresalePack#0" />
+            <element signature="e#30619#30809#1" />
+            <element signature="n#!!block;n#_getRarePlusRarity#0;n#PresalePack#0" />
+            <element signature="e#34285#34340#1" />
+            <element signature="e#34366#34424#1" />
+            <element signature="e#34450#34503#1" />
+            <element signature="e#34509#34562#1" />
+            <element signature="n#!!block;n#_getEpicPlusRarity#0;n#PresalePack#0" />
+            <element signature="e#34686#34741#1" />
+            <element signature="e#34767#34825#1" />
+            <element signature="e#34831#34884#1" />
+            <element signature="n#!!block;n#_getLegendaryPlusRarity#0;n#PresalePack#0" />
+            <element signature="e#35013#35068#1" />
+            <element signature="e#35074#35132#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contracts/Card.sol" />
+    <entry file="file://$PROJECT_DIR$/contracts/Migrations.sol">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contracts/CardBase.sol" />
+    <entry file="file://$PROJECT_DIR$/contracts/purchase.sol" />
+    <entry file="file://$PROJECT_DIR$/tronbox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="45" column="33" lean-forward="true" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="61" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tronbox-config.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contracts/Common.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
+          <folding>
+            <element signature="n#Ownable#0" />
+            <element signature="n#!!block;n#setOwner#0;n#Ownable#0" />
+            <element signature="n#!!block;n#onlyOwner#0;n#Ownable#0" />
+            <element signature="n#!!block;n#withdraw#0;n#CappedVault#0" />
+            <element signature="n#Governable#0" />
+            <element signature="e#1372#1410#0" />
+            <element signature="n#!!block;n#setGovernor#0;n#Governable#0" />
+            <element signature="n#!!block;n#onlyGovernor#0;n#Governable#0" />
+            <element signature="e#1596#1692#0" />
+            <element signature="n#!!block;n#whenNotPaused#0;n#Governable#0" />
+            <element signature="e#1772#1864#0" />
+            <element signature="n#!!block;n#whenPaused#0;n#Governable#0" />
+            <element signature="e#1940#2014#0" />
+            <element signature="n#!!block;n#pause#0;n#Governable#0" />
+            <element signature="e#2128#2205#0" />
+            <element signature="n#!!block;n#unpause#0;n#Governable#0" />
+            <element signature="n#Pausable#0" />
+            <element signature="n#!!block;n#whenNotPaused#0;n#Pausable#0" />
+            <element signature="n#!!block;n#whenPaused#0;n#Pausable#0" />
+            <element signature="n#!!block;n#pause#0;n#Pausable#0" />
+            <element signature="n#!!block;n#unpause#0;n#Pausable#0" />
+            <element signature="n#!!block;n#getLimit#0;n#CardProto#0" />
+            <element signature="n#!!block;n#makePermanantlyTradable#0;n#CardProto#0" />
+            <element signature="n#!!block;n#isTradable#0;n#CardProto#0" />
+            <element signature="n#!!block;n#nextSeason#0;n#CardProto#0" />
+            <element signature="e#5241#5356#0" />
+            <element signature="n#!!block;n#addProtos#0;n#CardProto#0" />
+            <element signature="e#6796#7248#1" />
+            <element signature="n#!!block;n#addProto#0;n#CardProto#0" />
+            <element signature="n#!!block;n#addWeapon#0;n#CardProto#0" />
+            <element signature="n#!!block;n#addSpell#0;n#CardProto#0" />
+            <element signature="n#!!block;n#_addProto#0;n#CardProto#0" />
+            <element signature="e#9839#10404#1" />
+            <element signature="e#9923#9979#1" />
+            <element signature="e#10012#10066#1" />
+            <element signature="e#10099#10153#1" />
+            <element signature="e#10191#10250#1" />
+            <element signature="e#10285#10341#1" />
+            <element signature="e#10347#10394#1" />
+            <element signature="n#!!block;n#getRandomCard#0;n#CardProto#0" />
+            <element signature="e#10972#11021#0" />
+            <element signature="e#11030#11129#0" />
+            <element signature="e#11167#11229#1" />
+            <element signature="e#11262#11320#1" />
+            <element signature="e#11353#11411#1" />
+            <element signature="e#11449#11517#1" />
+            <element signature="e#11552#12046#1" />
+            <element signature="e#11566#11600#0" />
+            <element signature="e#11725#11932#1" />
+            <element signature="e#11868#11918#1" />
+            <element signature="e#11945#11979#0" />
+            <element signature="n#!!block;n#replaceProto#0;n#CardProto#0" />
+            <element signature="e#13447#13462#0" />
+            <element signature="e#13742#13774#0" />
+            <element signature="e#13779#13826#0" />
+            <element signature="e#13831#13884#0" />
+            <element signature="e#13889#13945#0" />
+            <element signature="e#13950#13981#0" />
+            <element signature="e#14062#14109#0" />
+            <element signature="e#14114#14170#0" />
+            <element signature="e#14175#14236#0" />
+            <element signature="e#14241#14318#0" />
+            <element signature="e#14323#14380#0" />
+            <element signature="e#14385#14462#0" />
+            <element signature="e#14467#14499#0" />
+            <element signature="n#ERC165#0" />
+            <element signature="e#14633#14688#0" />
+            <element signature="e#14693#14765#0" />
+            <element signature="e#14770#14842#0" />
+            <element signature="e#14847#14878#0" />
+            <element signature="e#14883#14946#0" />
+            <element signature="e#14951#15006#0" />
+            <element signature="n#ERC721#0" />
+            <element signature="n#!!block;n#transfer#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#_transfer#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#burnAll#0;n#CardOwnership#0" />
+            <element signature="e#20361#20398#1" />
+            <element signature="e#20410#20529#0" />
+            <element signature="n#!!block;n#approve#0;n#CardOwnership#0" />
+            <element signature="e#20755#20878#0" />
+            <element signature="n#!!block;n#approveAll#0;n#CardOwnership#0" />
+            <element signature="e#20990#21034#1" />
+            <element signature="e#21046#21164#0" />
+            <element signature="n#!!block;n#getApproved#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#balanceOf#0;n#CardOwnership#0" />
+            <element signature="e#21498#21621#0" />
+            <element signature="n#!!block;n#exists#0;n#CardOwnership#0" />
+            <element signature="e#21732#21866#0" />
+            <element signature="n#!!block;n#transferFrom#0;n#CardOwnership#0" />
+            <element signature="e#22028#22058#0" />
+            <element signature="e#22067#22129#0" />
+            <element signature="e#22310#22449#0" />
+            <element signature="n#!!block;n#transferAllFrom#0;n#CardOwnership#0" />
+            <element signature="e#22566#22627#1" />
+            <element signature="n#!!block;n#isApprovedForAll#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#setApprovalForAll#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#safeTransferFrom#0;n#CardOwnership#0" />
+            <element signature="e#23439#23589#1" />
+            <element signature="n#!!block;n#safeTransferFrom#1;n#CardOwnership#0" />
+            <element signature="n#!!block;n#_addToken#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#_removeToken#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#isSenderApprovedFor#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#_isContract#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#tokenURI#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#tokenOfOwnerByIndex#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#tokenByIndex#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#supportsInterface#0;n#CardOwnership#0" />
+            <element signature="e#25117#25126#0" />
+            <element signature="e#25164#25181#0" />
+            <element signature="e#25219#25241#0" />
+            <element signature="e#25287#25306#0" />
+            <element signature="n#!!block;n#implementsERC721#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#getOwnedTokens#0;n#CardOwnership#0" />
+            <element signature="e#25525#25595#0" />
+            <element signature="n#ERC721TokenReceiver#0" />
+            <element signature="e#25632#25672#0" />
+            <element signature="e#25677#25748#0" />
+            <element signature="e#25753#25826#0" />
+            <element signature="e#25831#25904#0" />
+            <element signature="e#25909#25981#0" />
+            <element signature="e#25986#26047#0" />
+            <element signature="e#26052#26088#0" />
+            <element signature="e#26093#26157#0" />
+            <element signature="e#26162#26219#0" />
+            <element signature="e#26224#26298#0" />
+            <element signature="e#26303#26323#0" />
+            <element signature="n#!!block;n#addPack#0;n#CardIntegration#0" />
+            <element signature="n#!!block;n#onlyApprovedPacks#0;n#CardIntegration#0" />
+            <element signature="n#!!block;n#_isApprovedPack#0;n#CardIntegration#0" />
+            <element signature="e#26879#26984#1" />
+            <element signature="e#26930#26974#1" />
+            <element signature="n#!!block;n#createCard#0;n#CardIntegration#0" />
+            <element signature="e#27274#27461#1" />
+            <element signature="n#!!block;n#_createCard#0;n#CardIntegration#0" />
+            <element signature="e#29372#29403#0" />
+            <element signature="n#!!block;n#packSize#0;n#PresalePack#0" />
+            <element signature="n#!!block;n#packsPerClaim#0;n#PresalePack#0" />
+            <element signature="e#29750#29784#0" />
+            <element signature="n#!!block;n#extract#0;n#PresalePack#0" />
+            <element signature="n#!!block;n#purchase#0;n#PresalePack#0" />
+            <element signature="e#30619#30809#1" />
+            <element signature="n#!!block;n#_getRarePlusRarity#0;n#PresalePack#0" />
+            <element signature="e#34285#34340#1" />
+            <element signature="e#34366#34424#1" />
+            <element signature="e#34450#34503#1" />
+            <element signature="e#34509#34562#1" />
+            <element signature="n#!!block;n#_getEpicPlusRarity#0;n#PresalePack#0" />
+            <element signature="e#34686#34741#1" />
+            <element signature="e#34767#34825#1" />
+            <element signature="e#34831#34884#1" />
+            <element signature="n#!!block;n#_getLegendaryPlusRarity#0;n#PresalePack#0" />
+            <element signature="e#35013#35068#1" />
+            <element signature="e#35074#35132#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contracts/Card.sol" />
+    <entry file="file://$PROJECT_DIR$/contracts/Migrations.sol">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contracts/CardBase.sol" />
+    <entry file="uml://JavaScript-modules-diagram/Z:/文档/TronTCG/tron/tronbox.js">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/tronbox.js</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="712.0" y="282.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tronbox-config.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contracts/CardBase.sol" />
+    <entry file="file://$PROJECT_DIR$/contracts/purchase.sol" />
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contracts/Card.sol" />
+    <entry file="file://$PROJECT_DIR$/contracts/OriCardIntegration.sol" />
+    <entry file="file://$PROJECT_DIR$/contracts/Migrations.sol">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contracts/Common.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1346">
+          <caret line="1131" column="24" lean-forward="true" selection-start-line="1131" selection-start-column="24" selection-end-line="1131" selection-end-column="24" />
+          <folding>
+            <element signature="n#Ownable#0" />
+            <element signature="n#!!block;n#setOwner#0;n#Ownable#0" />
+            <element signature="n#!!block;n#onlyOwner#0;n#Ownable#0" />
+            <element signature="n#!!block;n#withdraw#0;n#CappedVault#0" />
+            <element signature="n#Governable#0" />
+            <element signature="e#1372#1410#0" />
+            <element signature="n#!!block;n#setGovernor#0;n#Governable#0" />
+            <element signature="n#!!block;n#onlyGovernor#0;n#Governable#0" />
+            <element signature="e#1596#1692#0" />
+            <element signature="n#!!block;n#whenNotPaused#0;n#Governable#0" />
+            <element signature="e#1772#1864#0" />
+            <element signature="n#!!block;n#whenPaused#0;n#Governable#0" />
+            <element signature="e#1940#2014#0" />
+            <element signature="n#!!block;n#pause#0;n#Governable#0" />
+            <element signature="e#2128#2205#0" />
+            <element signature="n#!!block;n#unpause#0;n#Governable#0" />
+            <element signature="n#Pausable#0" />
+            <element signature="n#!!block;n#whenNotPaused#0;n#Pausable#0" />
+            <element signature="n#!!block;n#whenPaused#0;n#Pausable#0" />
+            <element signature="n#!!block;n#pause#0;n#Pausable#0" />
+            <element signature="n#!!block;n#unpause#0;n#Pausable#0" />
+            <element signature="n#!!block;n#getLimit#0;n#CardProto#0" />
+            <element signature="n#!!block;n#makePermanantlyTradable#0;n#CardProto#0" />
+            <element signature="n#!!block;n#isTradable#0;n#CardProto#0" />
+            <element signature="n#!!block;n#nextSeason#0;n#CardProto#0" />
+            <element signature="e#5241#5356#0" />
+            <element signature="n#!!block;n#addProtos#0;n#CardProto#0" />
+            <element signature="e#6796#7248#1" />
+            <element signature="n#!!block;n#addProto#0;n#CardProto#0" />
+            <element signature="n#!!block;n#addWeapon#0;n#CardProto#0" />
+            <element signature="n#!!block;n#addSpell#0;n#CardProto#0" />
+            <element signature="n#!!block;n#_addProto#0;n#CardProto#0" />
+            <element signature="e#9839#10404#1" />
+            <element signature="e#9923#9979#1" />
+            <element signature="e#10012#10066#1" />
+            <element signature="e#10099#10153#1" />
+            <element signature="e#10191#10250#1" />
+            <element signature="e#10285#10341#1" />
+            <element signature="e#10347#10394#1" />
+            <element signature="n#!!block;n#getRandomCard#0;n#CardProto#0" />
+            <element signature="e#10972#11021#0" />
+            <element signature="e#11030#11129#0" />
+            <element signature="e#11167#11229#1" />
+            <element signature="e#11262#11320#1" />
+            <element signature="e#11353#11411#1" />
+            <element signature="e#11449#11517#1" />
+            <element signature="e#11552#12046#1" />
+            <element signature="e#11566#11600#0" />
+            <element signature="e#11725#11932#1" />
+            <element signature="e#11868#11918#1" />
+            <element signature="e#11945#11979#0" />
+            <element signature="n#!!block;n#replaceProto#0;n#CardProto#0" />
+            <element signature="e#13447#13462#0" />
+            <element signature="e#13742#13774#0" />
+            <element signature="e#13779#13826#0" />
+            <element signature="e#13831#13884#0" />
+            <element signature="e#13889#13945#0" />
+            <element signature="e#13950#13981#0" />
+            <element signature="e#14062#14109#0" />
+            <element signature="e#14114#14170#0" />
+            <element signature="e#14175#14236#0" />
+            <element signature="e#14241#14318#0" />
+            <element signature="e#14323#14380#0" />
+            <element signature="e#14385#14462#0" />
+            <element signature="e#14467#14499#0" />
+            <element signature="n#ERC165#0" />
+            <element signature="e#14633#14688#0" />
+            <element signature="e#14693#14765#0" />
+            <element signature="e#14770#14842#0" />
+            <element signature="e#14847#14878#0" />
+            <element signature="e#14883#14946#0" />
+            <element signature="e#14951#15006#0" />
+            <element signature="n#ERC721#0" />
+            <element signature="n#!!block;n#transfer#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#_transfer#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#burnAll#0;n#CardOwnership#0" />
+            <element signature="e#20361#20398#1" />
+            <element signature="e#20410#20529#0" />
+            <element signature="n#!!block;n#approve#0;n#CardOwnership#0" />
+            <element signature="e#20755#20878#0" />
+            <element signature="n#!!block;n#approveAll#0;n#CardOwnership#0" />
+            <element signature="e#20990#21034#1" />
+            <element signature="e#21046#21164#0" />
+            <element signature="n#!!block;n#getApproved#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#balanceOf#0;n#CardOwnership#0" />
+            <element signature="e#21498#21621#0" />
+            <element signature="n#!!block;n#exists#0;n#CardOwnership#0" />
+            <element signature="e#21732#21866#0" />
+            <element signature="n#!!block;n#transferFrom#0;n#CardOwnership#0" />
+            <element signature="e#22028#22058#0" />
+            <element signature="e#22067#22129#0" />
+            <element signature="e#22310#22449#0" />
+            <element signature="n#!!block;n#transferAllFrom#0;n#CardOwnership#0" />
+            <element signature="e#22566#22627#1" />
+            <element signature="n#!!block;n#isApprovedForAll#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#setApprovalForAll#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#safeTransferFrom#0;n#CardOwnership#0" />
+            <element signature="e#23439#23589#1" />
+            <element signature="n#!!block;n#safeTransferFrom#1;n#CardOwnership#0" />
+            <element signature="n#!!block;n#_addToken#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#_removeToken#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#isSenderApprovedFor#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#_isContract#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#tokenURI#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#tokenOfOwnerByIndex#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#tokenByIndex#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#supportsInterface#0;n#CardOwnership#0" />
+            <element signature="e#25117#25126#0" />
+            <element signature="e#25164#25181#0" />
+            <element signature="e#25219#25241#0" />
+            <element signature="e#25287#25306#0" />
+            <element signature="n#!!block;n#implementsERC721#0;n#CardOwnership#0" />
+            <element signature="n#!!block;n#getOwnedTokens#0;n#CardOwnership#0" />
+            <element signature="e#25525#25595#0" />
+            <element signature="n#ERC721TokenReceiver#0" />
+            <element signature="e#25632#25672#0" />
+            <element signature="e#25677#25748#0" />
+            <element signature="e#25753#25826#0" />
+            <element signature="e#25831#25904#0" />
+            <element signature="e#25909#25981#0" />
+            <element signature="e#25986#26047#0" />
+            <element signature="e#26052#26088#0" />
+            <element signature="e#26093#26157#0" />
+            <element signature="e#26162#26219#0" />
+            <element signature="e#26224#26298#0" />
+            <element signature="e#26303#26323#0" />
+            <element signature="n#!!block;n#addPack#0;n#CardIntegration#0" />
+            <element signature="n#!!block;n#onlyApprovedPacks#0;n#CardIntegration#0" />
+            <element signature="n#!!block;n#_isApprovedPack#0;n#CardIntegration#0" />
+            <element signature="e#26879#26984#1" />
+            <element signature="e#26930#26974#1" />
+            <element signature="n#!!block;n#createCard#0;n#CardIntegration#0" />
+            <element signature="e#27274#27461#1" />
+            <element signature="n#!!block;n#_createCard#0;n#CardIntegration#0" />
+            <element signature="e#29372#29403#0" />
+            <element signature="n#!!block;n#packSize#0;n#PresalePack#0" />
+            <element signature="n#!!block;n#packsPerClaim#0;n#PresalePack#0" />
+            <element signature="e#29750#29784#0" />
+            <element signature="n#!!block;n#extract#0;n#PresalePack#0" />
+            <element signature="n#!!block;n#purchase#0;n#PresalePack#0" />
+            <element signature="e#30619#30809#1" />
+            <element signature="n#!!block;n#_getRarePlusRarity#0;n#PresalePack#0" />
+            <element signature="e#34285#34340#1" />
+            <element signature="e#34366#34424#1" />
+            <element signature="e#34450#34503#1" />
+            <element signature="e#34509#34562#1" />
+            <element signature="n#!!block;n#_getEpicPlusRarity#0;n#PresalePack#0" />
+            <element signature="e#34686#34741#1" />
+            <element signature="e#34767#34825#1" />
+            <element signature="e#34831#34884#1" />
+            <element signature="n#!!block;n#_getLegendaryPlusRarity#0;n#PresalePack#0" />
+            <element signature="e#35013#35068#1" />
+            <element signature="e#35074#35132#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tronbox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="26" column="35" lean-forward="true" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contracts/OriRarePack.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="n#!!block;n#getCardDetails#0;n#RarePack#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contracts/EpicPackOri.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contracts/LegendaryPack.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="n#!!block;n#getCardDetails#0;n#LegendaryPackTwo#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

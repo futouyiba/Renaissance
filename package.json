@@ -1,0 +1,17 @@
+{
+  "name": "tron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tronbox.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "compile": "tronbox compile",
+    "deployShasta": "source .env && tronbox migrate --reset --network shasta",
+    "deployDev": "source .env && tronbox migrate --reset --network development",
+    "deployMain": "source .env && tronbox migrate --reset --network mainnet"
+  },
+  "author": "",
+  "license": "ISC"
+}
