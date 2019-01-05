@@ -2,9 +2,17 @@
 
 <Renaissance> is a blockchain based Trading Card Game(TCG). Instead of just being bought and sold, this time the ERC721 cards have the abilities of attack, defend , cast spells, and more importantly, forming a "deck" that has specific strategy potentials. 
   
-Designer: Song Fu;
-Coder:      Song Fu;
-Art:           Song Fu;
-Business: Song Fu;
-It's such a big team : ) .  Song Fu worked in game industry for 7 years. He was working in Kabam, Gameloft, in the projects of <Marvel: Contest of Champions>(500 M USD revenue) and <Order & Chaos>(first full 3D MMO mobile game).
+![](https://github.com/futouyiba/Renaissance/blob/master/RenaissanceIntro/%E5%B9%BB%E7%81%AF%E7%89%871.PNG)
+![](https://github.com/futouyiba/Renaissance/blob/master/RenaissanceIntro/%E5%B9%BB%E7%81%AF%E7%89%872.PNG)
+![](https://github.com/futouyiba/Renaissance/blob/master/RenaissanceIntro/%E5%B9%BB%E7%81%AF%E7%89%873.PNG)
+![](https://github.com/futouyiba/Renaissance/blob/master/RenaissanceIntro/%E5%B9%BB%E7%81%AF%E7%89%874.PNG)
+![](https://github.com/futouyiba/Renaissance/blob/master/RenaissanceIntro/%E5%B9%BB%E7%81%AF%E7%89%875.PNG)
+![](https://github.com/futouyiba/Renaissance/blob/master/RenaissanceIntro/%E5%B9%BB%E7%81%AF%E7%89%876.PNG)
+![](https://github.com/futouyiba/Renaissance/blob/master/RenaissanceIntro/%E5%B9%BB%E7%81%AF%E7%89%877.PNG)
+![](https://github.com/futouyiba/Renaissance/blob/master/RenaissanceIntro/%E5%B9%BB%E7%81%AF%E7%89%878.PNG)
+![](https://github.com/futouyiba/Renaissance/blob/master/RenaissanceIntro/%E5%B9%BB%E7%81%AF%E7%89%879.PNG)
+![](https://github.com/futouyiba/Renaissance/blob/master/RenaissanceIntro/%E5%B9%BB%E7%81%AF%E7%89%8710.PNG)
+![](https://github.com/futouyiba/Renaissance/blob/master/RenaissanceIntro/%E5%B9%BB%E7%81%AF%E7%89%8711.PNG)
+![](https://github.com/futouyiba/Renaissance/blob/master/RenaissanceIntro/%E5%B9%BB%E7%81%AF%E7%89%8712.PNG)
+![](https://github.com/futouyiba/Renaissance/blob/master/RenaissanceIntro/%E5%B9%BB%E7%81%AF%E7%89%8713.PNG)
 
